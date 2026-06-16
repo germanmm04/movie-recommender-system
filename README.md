@@ -60,4 +60,4 @@ The system groups similar movies using clustering algorithms and provides person
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/germanmm04/movie-recommender-system/tree/main
