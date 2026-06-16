@@ -21,7 +21,7 @@ The system groups similar movies using clustering algorithms and provides person
 ##  Machine Learning Approach
 
 - Unsupervised Learning
-- Clustering (K-Means)
+- Clustering
 - Feature engineering based on movie attributes
 - Similarity-based recommendation system
 
@@ -48,8 +48,10 @@ The system groups similar movies using clustering algorithms and provides person
 ##  Example Output
 
 
-![Recommendations](images/recommendations.png)
-![Clusters](images/clusters.png)
+![Scatter plot DPC](images/DPC.jpg)
+![Scatter plot K-Means](images/kmeans.jpg)
+![Scatter plot DPC](images/dbscan.jpg)
+![RecommendationsC](images/test.jpg)
 
 ---
 
