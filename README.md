@@ -45,7 +45,7 @@ The system groups similar movies using clustering algorithms and provides person
 
 ---
 
-##  Example Output
+##  Screenshots
 
 
 ![Scatter plot DPC](images/DPC.jpg)
